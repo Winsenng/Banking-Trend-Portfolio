@@ -4,14 +4,14 @@ This project contains a series of four in-depth reports analyzing key trends sha
 
 Key Components:
 
-📄 Report 1 – The Impact of COVID-19 on Global Banking Operations
-Examines how the pandemic reshaped banking strategies, accelerating digital transformation, altering risk management practices, and influencing regulatory policies.
+📄 Report 1 – Interest Rate Policies and Their Impact on Banking Profitability
+Analyzes how central banks' interest rate policies affect commercial and investment banks, particularly in low or negative rate environments, impacting profitability, lending practices, and risk exposure.
 
 📄 Report 2 – Sustainable Finance and Green Banking Initiatives
 Explores how banks are integrating ESG (Environmental, Social, and Governance) factors into their investment strategies and operations, focusing on the rise of green bonds and sustainable lending.
 
-📄 Report 3 – Interest Rate Policies and Their Impact on Banking Profitability
-Analyzes how central banks' interest rate policies affect commercial and investment banks, particularly in low or negative rate environments, impacting profitability, lending practices, and risk exposure.
+📄 Report 3 – The Impact of COVID-19 on Global Banking Operations
+Examines how the pandemic reshaped banking strategies, accelerating digital transformation, altering risk management practices, and influencing regulatory policies.
 
 📄 Report 4 – The Rise of Neo-Banks and Challenger Banks
 Investigates the emergence of digital-only banks, their disruption of traditional banking models, and how they are reshaping customer expectations and financial services.
